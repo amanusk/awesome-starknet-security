@@ -26,17 +26,17 @@
 * [Tools](#tools)
 * [CTFs and Wargames](#ctfs-and-wargames)
   * [CTFs](#ctfs)
-    * [CTF writeups](#ctf-writeups)
+  * [CTF writeups](#ctf-writeups)
   * [Wargames](#wargames)
 * [Audit reports](#audit-reports)
   * [Cairo](#cairo)
   * [Cairo 0](#cairo-0)
+* [Blogposts and Tutorials](#blogposts-and-tutorials)
+    * [Writeups](#writeups)
+  * [Video tutorials](#video-tutorials)
+  * [Twitter threads](#twitter-threads)
 * [General](#general)
   * [Repositories and Examples](#repositories-and-examples)
-  * [Blogposts and Tutorials](#blogposts-and-tutorials)
-    * [Writeups](#writeups)
-    * [Video tutorials](#video-tutorials)
-  * [Twitter threads](#twitter-threads)
 * [License](#license)
 
 <!-- vim-markdown-toc -->
@@ -63,7 +63,7 @@
 - [Paradigm CTF 2022](https://github.com/paradigmxyz/paradigm-ctf-2022) - Paradigm CTF with Solidity and Cairo challenges.
 - [StarknetCC-CTF Lisbon 2022](https://github.com/starknet-edu/starknet-cc-ctf-challenges) - Lisbon 2022 Cairo CTF.
 
-#### CTF writeups
+### CTF writeups
 
 - [StarknetCC-CTF](https://github.com/pscott/StarknetCC-CTF) - StarknetCC 2022 CTF writeup by pscott.
 - [StarknetCC-CTF](https://blog.ledger.com/starknet-ctf/) - StarknetCC 2022 CTF writeup by Ledger.
@@ -84,13 +84,7 @@
 
 - [Empiric Netowrk](https://github.com/Zellic/publications/blob/master/Empiric%20Oracle%20-%20Zellic%20Audit%20Report.pdf) - Empiric network audit by Zellic.
 
-## General
-
-### Repositories and Examples
-
-- [not-so-smart-cairo](https://github.com/crytic/building-secure-contracts/tree/master/not-so-smart-contracts/cairo) - Examples of common Cairo smart contract vulnerabilities by Trail of Bits.
-
-### Blogposts and Tutorials
+## Blogposts and Tutorials
 
 #### Writeups
 
@@ -101,11 +95,17 @@
 - [Under the hood of Cairo 1](https://medium.com/nethermind-eth/under-the-hood-of-cairo-1-0-exploring-sierra-7f32808421f5) - Understanding Sierra code.
 - [Zero-Click Argent-X Wallet Contract Vulnerability, Explained](https://braavos.app/zero-click-argent-x-wallet-contract-vulnerability-explained/) - Vulnerability in implementing Starknet smart account.
 
-#### Video tutorials
+### Video tutorials
 
 -[Cairo Security (Peteris Erins)](https://www.youtube.com/watch?v=9CIhHNrliW4) - Spearbit seminar on Cairo security.
 
 ### Twitter threads
+
+## General
+
+### Repositories and Examples
+
+- [not-so-smart-cairo](https://github.com/crytic/building-secure-contracts/tree/master/not-so-smart-contracts/cairo) - Examples of common Cairo smart contract vulnerabilities by Trail of Bits.
 
 ---
 
