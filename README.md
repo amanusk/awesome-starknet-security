@@ -73,6 +73,7 @@
 - [cairo-damn-vulnerable-defi](https://github.com/credence0x/cairo-damn-vulnerable-defi) - Cairo and Starknet challenges inspired by Capture the Ether.
 - [Node Guardians](https://nodeguardians.io/dev-hub?s=devhub-campaigns) - Online wargame and challenge with quests and standalone challenges.
 - [Starknet-Security-Challenges](https://starknet-challenges.vercel.app/) - Cairo and Starknet challenges inspired by Capture the Ether.
+- [Underhanded Cairo](https://cairopractice.com/tags/security/) - Cairo challenges in cairopractice.com.
 
 ## Audit reports
 
