@@ -97,7 +97,7 @@
 
 ### Video tutorials
 
--[Cairo Security (Peteris Erins)](https://www.youtube.com/watch?v=9CIhHNrliW4) - Spearbit seminar on Cairo security.
+- [Cairo Security (Peteris Erins)](https://www.youtube.com/watch?v=9CIhHNrliW4) - Spearbit seminar on Cairo security.
 
 ### Twitter threads
 
