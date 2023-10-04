@@ -1,4 +1,4 @@
-kdiv align="center">
+<div align="center">
 <img alt="starknet logo" src="./assets/starknet.svg" width="200" >
 
   <h1 align="center">Awesome Starknet Security</h1>
@@ -27,17 +27,18 @@ kdiv align="center">
 <!-- vim-markdown-toc GFM -->
 
 * [Tools](#tools)
-* [Tutorials and CTFs](#tutorials-and-ctfs)
+* [CTFs and Wargames](#ctfs-and-wargames)
   * [CTFs](#ctfs)
-    * [Cairo](#cairo)
-    * [Cairo 0](#cairo-0)
     * [CTF writeups](#ctf-writeups)
+  * [Wargames](#wargames)
 * [Audit reports](#audit-reports)
-  * [Cairo](#cairo-1)
-  * [Cairo 0](#cairo-0-1)
+  * [Cairo](#cairo)
+  * [Cairo 0](#cairo-0)
 * [General](#general)
   * [Repositories and Examples](#repositories-and-examples)
   * [Blogposts and Tutorials](#blogposts-and-tutorials)
+    * [Writeups](#writeups)
+    * [Video tutorials](#video-tutorials)
   * [Twitter threads](#twitter-threads)
 * [License](#license)
 
@@ -55,28 +56,26 @@ kdiv align="center">
 - [Starknet-Foundry](https://github.com/foundry-rs/starknet-foundry) - Starknet contracts development toolkit.
 - [Thoth](https://github.com/FuzzingLabs/thoth) - Decompiler and security toolkit.
 
-## Tutorials and CTFs
+## CTFs and Wargames
 
 ### CTFs
 
-#### Cairo
-
 <!-- please order alphabetically -->
 
-- [cairo-damn-vulnerable-defi](https://github.com/credence0x/cairo-damn-vulnerable-defi)
-- [Curta puzzle #13: Ping Pong](https://www.curta.wtf/puzzle/13)
-- [Node Guardians](https://nodeguardians.io/dev-hub?s=devhub-campaigns)
-- [Starknet-Security-Challenges](https://starknet-challenges.vercel.app/)
-
-#### Cairo 0
-
-- [Paradigm CTF 2022](https://github.com/paradigmxyz/paradigm-ctf-2022)
-- [StarknetCC-CTF Lisbon 2022](https://github.com/starknet-edu/starknet-cc-ctf-challenges)
+- [Curta puzzle #13: Ping Pong](https://www.curta.wtf/puzzle/13) - Starknet messaging challenge.
+- [Paradigm CTF 2022](https://github.com/paradigmxyz/paradigm-ctf-2022) - Paradigm CTF with Solidity and Cairo challenges.
+- [StarknetCC-CTF Lisbon 2022](https://github.com/starknet-edu/starknet-cc-ctf-challenges) - Lisbon 2022 Cairo CTF.
 
 #### CTF writeups
 
 - [StarknetCC-CTF](https://github.com/pscott/StarknetCC-CTF) - StarknetCC 2022 CTF writeup by pscott.
 - [StarknetCC-CTF](https://blog.ledger.com/starknet-ctf/) - StarknetCC 2022 CTF writeup by Ledger.
+
+### Wargames
+
+- [cairo-damn-vulnerable-defi](https://github.com/credence0x/cairo-damn-vulnerable-defi) - Cairo and Starknet challenges inspired by Capture the Ether.
+- [Node Guardians](https://nodeguardians.io/dev-hub?s=devhub-campaigns) - Online wargame and challenge with quests and standalone challenges.
+- [Starknet-Security-Challenges](https://starknet-challenges.vercel.app/) - Cairo and Starknet challenges inspired by Capture the Ether.
 
 ## Audit reports
 
@@ -84,10 +83,9 @@ kdiv align="center">
 
 ### Cairo 0
 
-<!-- please order by most recent first -->
+- [ChainSecurity DAI Bridge Audit](https://chainsecurity.com/wp-content/uploads/2021/12/ChainSecurity_MakerDAO_StarkNet-DAI-Bridge_audit.pdf) - MakerDAO's DAI bridge audit by ChainSecurity.
 
 - [Empiric Netowrk](https://github.com/Zellic/publications/blob/master/Empiric%20Oracle%20-%20Zellic%20Audit%20Report.pdf) - Empiric network audit by Zellic.
-- [ChainSecurity DAI Bridge Audit](https://chainsecurity.com/wp-content/uploads/2021/12/ChainSecurity_MakerDAO_StarkNet-DAI-Bridge_audit.pdf) - MakerDAO's DAI bridge audit by ChainSecurity.
 
 ## General
 
@@ -97,12 +95,18 @@ kdiv align="center">
 
 ### Blogposts and Tutorials
 
-- [Cairo Contracts and pitfalls overview](https://mixbytes.io/blog/cairo-contracts-overview)
-- [Cairo 0.x Security](https://ctrlc03.github.io/post/cairo-security/)
-- [Under the hood of Cairo 1](https://medium.com/nethermind-eth/under-the-hood-of-cairo-1-0-exploring-sierra-7f32808421f5)
-- [Auditing Cairo 1.0 Contracts](https://extropy-io.medium.com/auditing-cairo-1-0-contracts-9cfdf479924a)
-- [Risks and mitigations in `__validate__`](https://braavos.app/adventures-with-account-abstraction-failed-transactions/)
-- [ArgentX `__validate__` vulnerability](https://braavos.app/zero-click-argent-x-wallet-contract-vulnerability-explained/)
+#### Writeups
+
+- [Auditing Cairo 1.0 Contracts](https://extropy-io.medium.com/auditing-cairo-1-0-contracts-9cfdf479924a) - Cairo auditing tips and pitfalls.
+- [Cairo 0.x Security](https://ctrlc03.github.io/post/cairo-security/) - Cairo 0.x pitfalls and considerations.
+- [Cairo Contracts and pitfalls overview](https://mixbytes.io/blog/cairo-contracts-overview) - Cairo traps and vulnerabilities.
+- [Adventures with Account Abstraction – Risks and Mitigations in `__validate__`](https://braavos.app/adventures-with-account-abstraction-failed-transactions/) - Considerations for `__validate__` function of Starknet smart accounts.
+- [Under the hood of Cairo 1](https://medium.com/nethermind-eth/under-the-hood-of-cairo-1-0-exploring-sierra-7f32808421f5) - Understanding Sierra code.
+- [Zero-Click Argent-X Wallet Contract Vulnerability, Explained](https://braavos.app/zero-click-argent-x-wallet-contract-vulnerability-explained/) - Vulnerability in implementing Starknet smart account.
+
+#### Video tutorials
+
+-[Cairo Security (Peteris Erins)](https://www.youtube.com/watch?v=9CIhHNrliW4) - Spearbit seminar on Cairo security.
 
 ### Twitter threads
 
