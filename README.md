@@ -79,11 +79,23 @@
 
 ### Cairo
 
+- [Argent Account and Multisig](https://github.com/argentlabs/argent-contracts-starknet/blob/main/audit/Consensys-Diligence-argent-audit-2023-05.pdf) - Argent account and Argent Multisig for Starknet audit by Consensys Diligence.
+
+- [Starknet ID](https://github.com/NethermindEth/PublicAuditReports/blob/main/NM0135-FINAL_STARKNET_ID.pdf) - Starknet ID audit by Nethermind.
+
+- [zkLend](https://github.com/NethermindEth/PublicAuditReports/blob/main/NM0097-FINAL_ZKLEND.pdf) - zkLend audit by Nethermind.
+
 ### Cairo 0
+
+- [Briq](https://github.com/NethermindEth/PublicAuditReports/blob/main/NM0053-FINAL_BRIQ_PROTOCOL.pdf) - Briq protocol audit by Nethermind.
 
 - [ChainSecurity DAI Bridge Audit](https://chainsecurity.com/wp-content/uploads/2021/12/ChainSecurity_MakerDAO_StarkNet-DAI-Bridge_audit.pdf) - MakerDAO's DAI bridge audit by ChainSecurity.
 
 - [Empiric Netowrk](https://github.com/Zellic/publications/blob/master/Empiric%20Oracle%20-%20Zellic%20Audit%20Report.pdf) - Empiric network audit by Zellic.
+
+- [SithSwap](https://github.com/NethermindEth/PublicAuditReports/blob/main/NM0057%20-%20FINAL_SITHSWAP.pdf) - SithSwap AMM by Nethermind.
+
+- [SHA256 from Cartridge](https://github.com/NethermindEth/PublicAuditReports/blob/main/NM0061-DRAFT_CARTDRIGE.pdf) - audit of SHA-256 implementation from Cartridge by Nethermind.
 
 ## Blogposts and Tutorials
 
