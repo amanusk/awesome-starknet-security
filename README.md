@@ -101,10 +101,12 @@
 
 #### Writeups
 
+- [Adventures with Account Abstraction – Risks and Mitigations in `__validate__`](https://braavos.app/adventures-with-account-abstraction-failed-transactions/) - Considerations for `__validate__` function of Starknet smart accounts.
 - [Auditing Cairo 1.0 Contracts](https://extropy-io.medium.com/auditing-cairo-1-0-contracts-9cfdf479924a) - Cairo auditing tips and pitfalls.
 - [Cairo 0.x Security](https://ctrlc03.github.io/post/cairo-security/) - Cairo 0.x pitfalls and considerations.
 - [Cairo Contracts and pitfalls overview](https://mixbytes.io/blog/cairo-contracts-overview) - Cairo traps and vulnerabilities.
-- [Adventures with Account Abstraction – Risks and Mitigations in `__validate__`](https://braavos.app/adventures-with-account-abstraction-failed-transactions/) - Considerations for `__validate__` function of Starknet smart accounts.
+- [Introduction to Cairo 1 smart-contracts security](https://antoinemecker.medium.com/an-introduction-to-cairo-1-smart-contracts-security-1f96792b998a) - Introduction to Cairo 1 security, tips and considerations.
+- [Security Considerations in Cairo](https://book.starknet.io/chapter_2/security_considerations.html) - Security considerations writeup in Starknet book.
 - [Under the hood of Cairo 1](https://medium.com/nethermind-eth/under-the-hood-of-cairo-1-0-exploring-sierra-7f32808421f5) - Understanding Sierra code.
 - [Zero-Click Argent-X Wallet Contract Vulnerability, Explained](https://braavos.app/zero-click-argent-x-wallet-contract-vulnerability-explained/) - Vulnerability in implementing Starknet smart account.
 
