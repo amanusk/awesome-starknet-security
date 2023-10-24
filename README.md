@@ -105,6 +105,7 @@
 - [Auditing Cairo 1.0 Contracts](https://extropy-io.medium.com/auditing-cairo-1-0-contracts-9cfdf479924a) - Cairo auditing tips and pitfalls.
 - [Cairo 0.x Security](https://ctrlc03.github.io/post/cairo-security/) - Cairo 0.x pitfalls and considerations.
 - [Cairo Contracts and pitfalls overview](https://mixbytes.io/blog/cairo-contracts-overview) - Cairo traps and vulnerabilities.
+- [Cairo: the Starknet way to writing safe code](https://medium.com/nethermind-eth/cairo-the-starknet-way-to-writing-safe-code-8169486c7132) - Comparing Cairo and Solidity for smart contracts.
 - [Introduction to Cairo 1 smart-contracts security](https://antoinemecker.medium.com/an-introduction-to-cairo-1-smart-contracts-security-1f96792b998a) - Introduction to Cairo 1 security, tips and considerations.
 - [Security Considerations in Cairo](https://book.starknet.io/chapter_2/security_considerations.html) - Security considerations writeup in Starknet book.
 - [Under the hood of Cairo 1](https://medium.com/nethermind-eth/under-the-hood-of-cairo-1-0-exploring-sierra-7f32808421f5) - Understanding Sierra code.
