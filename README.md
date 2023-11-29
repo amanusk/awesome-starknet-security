@@ -81,6 +81,12 @@
 
 - [Argent Account and Multisig](https://github.com/argentlabs/argent-contracts-starknet/blob/main/audit/Consensys-Diligence-argent-audit-2023-05.pdf) - Argent account and Argent Multisig for Starknet audit by Consensys Diligence.
 
+- [AVNU](https://github.com/NethermindEth/PublicAuditReports/blob/main/NM0141-FINAL_AVNU.pdf) - AVNU audit by Nethermind.
+
+- [Pragma](https://github.com/NethermindEth/PublicAuditReports/blob/main/NM0147-FINAL_PRAGMA.pdf) - Pragma oracle audit by Nethermind.
+
+- [Snapshot X](https://github.com/snapshot-labs/sx-starknet/blob/49e42850c808fea30e9fb5da5408478fee7ac680/audits/OpenZeppelin-SnapshotX-Audit.pdf) - Snapshot X audit by OpenZeppelin.
+
 - [Starknet ID](https://github.com/NethermindEth/PublicAuditReports/blob/main/NM0135-FINAL_STARKNET_ID.pdf) - Starknet ID audit by Nethermind.
 
 - [zkLend](https://github.com/NethermindEth/PublicAuditReports/blob/main/NM0097-FINAL_ZKLEND.pdf) - zkLend audit by Nethermind.
