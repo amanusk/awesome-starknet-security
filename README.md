@@ -119,6 +119,7 @@
 ### Video tutorials
 
 - [Cairo Security (Peteris Erins)](https://www.youtube.com/watch?v=9CIhHNrliW4) - Spearbit seminar on Cairo security.
+- [Code4rena x Starknet Basecamp](https://www.youtube.com/playlist?list=PLRbIHW0ATr84DxXQhnH9qf90vQ1l1h90U) - Starknet basecamp for first Cairo contest.
 
 ### Twitter threads
 
