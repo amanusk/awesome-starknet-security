@@ -89,7 +89,7 @@
 
 - [Pragma](https://github.com/NethermindEth/PublicAuditReports/blob/main/NM0147-FINAL_PRAGMA.pdf) - Pragma oracle audit by Nethermind.
 
-- [Unruggable.meme](https://github.com/keep-starknet-strange/unruggable.meme/tree/main/contracts/audits) - Unruggable meme protocol community audits by Antoine M., Credennce0x, 0xerim.
+- [Unruggable.meme](https://github.com/keep-starknet-strange/unruggable.meme/tree/main/packages/contracts/audits) - Unruggable meme protocol community audits by Antoine M., Credennce0x, 0xerim.
 
 - [ZKX](https://github.com/NethermindEth/PublicAuditReports/blob/main/NM0120-FINAL_ZKX.pdf) - ZKX audit by Nethermind.
 
