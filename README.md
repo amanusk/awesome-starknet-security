@@ -48,8 +48,10 @@
 - [Aegis](https://lindylabs.net/articles/introducing-aegis) - Cairo Formal verification tool.
 - [amarna](https://github.com/crytic/amarna) - Static-analyzer and linter for the Cairo programming language.
 - [Cairo Fuzzer](https://github.com/FuzzingLabs/cairo-fuzzer) - Cairo Fuzzing tool.
+- [cairovm.codes](https://cairovm.codes/) - Compile and debug Sierra code.
 - [Caracal](https://github.com/crytic/caracal) - Static analyzer tool over Sierra.
 - [Semgrep](https://semgrep.dev/blog/2023/semgrep-now-supports-cairo-1-0/) - Static analyzer for Cairo.
+- [sierra-analyzer](https://github.com/FuzzingLabs/sierra-analyzer) - Sierra analyzer is a security toolkit in Rust for analyzing Sierra files.
 - [Starknet-Foundry](https://github.com/foundry-rs/starknet-foundry) - Starknet contracts development toolkit.
 - [Thoth](https://github.com/FuzzingLabs/thoth) - Decompiler and security toolkit.
 
