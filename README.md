@@ -48,8 +48,10 @@
 - [Aegis](https://lindylabs.net/articles/introducing-aegis) - Cairo Formal verification tool.
 - [amarna](https://github.com/crytic/amarna) - Static-analyzer and linter for the Cairo programming language.
 - [Cairo Fuzzer](https://github.com/FuzzingLabs/cairo-fuzzer) - Cairo Fuzzing tool.
+- [cairovm.codes](https://cairovm.codes/) - Compile and debug Sierra code.
 - [Caracal](https://github.com/crytic/caracal) - Static analyzer tool over Sierra.
 - [Semgrep](https://semgrep.dev/blog/2023/semgrep-now-supports-cairo-1-0/) - Static analyzer for Cairo.
+- [sierra-analyzer](https://github.com/FuzzingLabs/sierra-analyzer) - Security toolkit in Rust for analyzing Sierra files.
 - [Starknet-Foundry](https://github.com/foundry-rs/starknet-foundry) - Starknet contracts development toolkit.
 - [Thoth](https://github.com/FuzzingLabs/thoth) - Decompiler and security toolkit.
 
@@ -87,11 +89,7 @@
 
 - [Pragma](https://github.com/NethermindEth/PublicAuditReports/blob/main/NM0147-FINAL_PRAGMA.pdf) - Pragma oracle audit by Nethermind.
 
-- [Snapshot X](https://github.com/snapshot-labs/sx-starknet/blob/49e42850c808fea30e9fb5da5408478fee7ac680/audits/OpenZeppelin-SnapshotX-Audit.pdf) - Snapshot X audit by OpenZeppelin.
-
-- [Starknet ID](https://github.com/NethermindEth/PublicAuditReports/blob/main/NM0135-FINAL_STARKNET_ID.pdf) - Starknet ID audit by Nethermind.
-
-- [zkLend](https://github.com/NethermindEth/PublicAuditReports/blob/main/NM0097-FINAL_ZKLEND.pdf) - zkLend audit by Nethermind.
+- [Unruggable.meme](https://github.com/keep-starknet-strange/unruggable.meme/tree/main/packages/contracts/audits) - Unruggable meme protocol community audits by Antoine M., Credennce0x, 0xerim.
 
 - [ZKX](https://github.com/NethermindEth/PublicAuditReports/blob/main/NM0120-FINAL_ZKX.pdf) - ZKX audit by Nethermind.
 
