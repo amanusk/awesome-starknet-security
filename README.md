@@ -53,6 +53,8 @@
 - [Semgrep](https://semgrep.dev/blog/2023/semgrep-now-supports-cairo-1-0/) - Static analyzer for Cairo.
 - [sierra-analyzer](https://github.com/FuzzingLabs/sierra-analyzer) - Security toolkit in Rust for analyzing Sierra files.
 - [Starknet-Foundry](https://github.com/foundry-rs/starknet-foundry) - Starknet contracts development toolkit.
+- [StarkRekt](https://starkrekt.com/) - Check and reset their token spending permissions on Starknet.
+- [StarkRevoke](https://www.starkrevoke.com/) - Token revocation tool for Starknet.
 - [Thoth](https://github.com/FuzzingLabs/thoth) - Decompiler and security toolkit.
 
 ## CTFs and Wargames
