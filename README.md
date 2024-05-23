@@ -89,6 +89,10 @@
 
 - [Carmine](https://github.com/NethermindEth/PublicAuditReports/blob/main/NM0153-FINAL_CARMINE.pdf) - Carmine audit by Nethermind.
 
+- [Nimbora](https://github.com/Cairo-Security-Clan/Audit-Portfolio/blob/main/Nimbora%20Audit%20Report.pdf) - Nimbora V2 report by Cairo- Security-Clan.
+
+- [Opus](https://code4rena.com/audits/2024-01-opus#top) - Opus Code4rena contest report.
+
 - [Pragma](https://github.com/NethermindEth/PublicAuditReports/blob/main/NM0147-FINAL_PRAGMA.pdf) - Pragma oracle audit by Nethermind.
 
 - [Unruggable.meme](https://github.com/keep-starknet-strange/unruggable.meme/tree/main/packages/contracts/audits) - Unruggable meme protocol community audits by Antoine M., Credennce0x, 0xerim.
