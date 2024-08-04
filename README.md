@@ -50,6 +50,7 @@
 - [Cairo Fuzzer](https://github.com/FuzzingLabs/cairo-fuzzer) - Cairo Fuzzing tool.
 - [cairovm.codes](https://cairovm.codes/) - Compile and debug Sierra code.
 - [Caracal](https://github.com/crytic/caracal) - Static analyzer tool over Sierra.
+- [entro](https://github.com/NethermindEth/entro) - Decoding and indexing Starknet data.
 - [Semgrep](https://semgrep.dev/blog/2023/semgrep-now-supports-cairo-1-0/) - Static analyzer for Cairo.
 - [sierra-analyzer](https://github.com/FuzzingLabs/sierra-analyzer) - Security toolkit in Rust for analyzing Sierra files.
 - [Starknet-Foundry](https://github.com/foundry-rs/starknet-foundry) - Starknet contracts development toolkit.
@@ -86,6 +87,8 @@
 - [Argent Account and Multisig](https://github.com/argentlabs/argent-contracts-starknet/blob/main/audit/Consensys-Diligence-argent-audit-2023-05.pdf) - Argent account and Argent Multisig for Starknet audit by Consensys Diligence.
 
 - [AVNU](https://github.com/NethermindEth/PublicAuditReports/blob/main/NM0141-FINAL_AVNU.pdf) - AVNU audit by Nethermind.
+
+- [Braavos](https://github.com/myBraavos/braavos-account-cairo/blob/develop/audit/NM_0191_BRAAVOS_ACCOUNT_FINAL.pdf) - Braavos Account audit by Nethermind.
 
 - [Carmine](https://github.com/NethermindEth/PublicAuditReports/blob/main/NM0153-FINAL_CARMINE.pdf) - Carmine audit by Nethermind.
 
