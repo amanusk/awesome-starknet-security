@@ -48,12 +48,13 @@
 - [Aegis](https://lindylabs.net/articles/introducing-aegis) - Cairo Formal verification tool.
 - [amarna](https://github.com/crytic/amarna) - Static-analyzer and linter for the Cairo programming language.
 - [Cairo Fuzzer](https://github.com/FuzzingLabs/cairo-fuzzer) - Cairo Fuzzing tool.
+- [cairo-profiler](https://github.com/software-mansion/cairo-profiler) - Profiler for Cairo and Starknet.
 - [cairovm.codes](https://cairovm.codes/) - Compile and debug Sierra code.
 - [Caracal](https://github.com/crytic/caracal) - Static analyzer tool over Sierra.
 - [entro](https://github.com/NethermindEth/entro) - Decoding and indexing Starknet data.
 - [Semgrep](https://semgrep.dev/blog/2023/semgrep-now-supports-cairo-1-0/) - Static analyzer for Cairo.
 - [sierra-analyzer](https://github.com/FuzzingLabs/sierra-analyzer) - Security toolkit in Rust for analyzing Sierra files.
-- [Starknet-Foundry](https://github.com/foundry-rs/starknet-foundry) - Starknet contracts development toolkit.
+- [Starknet Foundry](https://github.com/foundry-rs/starknet-foundry) - Starknet contracts development toolkit.
 - [StarkRekt](https://starkrekt.com/) - Check and reset their token spending permissions on Starknet.
 - [StarkRevoke](https://www.starkrevoke.com/) - Token revocation tool for Starknet.
 - [Thoth](https://github.com/FuzzingLabs/thoth) - Decompiler and security toolkit.
