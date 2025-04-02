@@ -23,21 +23,21 @@
 
 <!-- vim-markdown-toc GFM -->
 
-* [Tools](#tools)
-* [CTFs and Wargames](#ctfs-and-wargames)
-  * [CTFs](#ctfs)
-  * [CTF writeups](#ctf-writeups)
-  * [Wargames](#wargames)
-* [Audit reports](#audit-reports)
-  * [Cairo](#cairo)
-  * [Cairo 0](#cairo-0)
-* [Blogposts and Tutorials](#blogposts-and-tutorials)
-    * [Writeups](#writeups)
-  * [Video tutorials](#video-tutorials)
-  * [Twitter threads](#twitter-threads)
-* [General](#general)
-  * [Repositories and Examples](#repositories-and-examples)
-* [License](#license)
+- [Tools](#tools)
+- [CTFs and Wargames](#ctfs-and-wargames)
+  - [CTFs](#ctfs)
+  - [CTF writeups](#ctf-writeups)
+  - [Wargames](#wargames)
+- [Audit reports](#audit-reports)
+  - [Cairo](#cairo)
+  - [Cairo 0](#cairo-0)
+- [Blogposts and Tutorials](#blogposts-and-tutorials)
+  - [Writeups](#writeups)
+  - [Video tutorials](#video-tutorials)
+  - [Twitter threads](#twitter-threads)
+- [General](#general)
+  - [Repositories and Examples](#repositories-and-examples)
+- [License](#license)
 
 <!-- vim-markdown-toc -->
 
@@ -123,10 +123,12 @@
 - [Auditing Cairo 1.0 Contracts](https://extropy-io.medium.com/auditing-cairo-1-0-contracts-9cfdf479924a) - Cairo auditing tips and pitfalls.
 - [Cairo 0.x Security](https://ctrlc03.github.io/post/cairo-security/) - Cairo 0.x pitfalls and considerations.
 - [Cairo Contracts and pitfalls overview](https://mixbytes.io/blog/cairo-contracts-overview) - Cairo traps and vulnerabilities.
+- [In-Depth Analysis of zkLend Hack Linked to EraLend Hack](https://slowmist.medium.com/in-depth-analysis-of-zklend-hack-linked-to-eralend-hack-fba4af9b66ef) - zkLend hack analysis by SlowMist.
 - [Cairo: the Starknet way to writing safe code](https://medium.com/nethermind-eth/cairo-the-starknet-way-to-writing-safe-code-8169486c7132) - Comparing Cairo and Solidity for smart contracts.
 - [Introduction to Cairo 1 smart-contracts security](https://antoinemecker.medium.com/an-introduction-to-cairo-1-smart-contracts-security-1f96792b998a) - Introduction to Cairo 1 security, tips and considerations.
 - [Under the hood of Cairo 1](https://medium.com/nethermind-eth/under-the-hood-of-cairo-1-0-exploring-sierra-7f32808421f5) - Understanding Sierra code.
 - [Zero-Click Argent-X Wallet Contract Vulnerability, Explained](https://braavos.app/zero-click-argent-x-wallet-contract-vulnerability-explained/) - Vulnerability in implementing Starknet smart account.
+- [zkLend Exploit Post-Mortem](https://blocksec.com/blog/zklend-exploit-post-mortem-unraveling-the-details-and-clarifying-misunderstandings-of-the-10m-flash-loan-attack) - zkLend exploit post-mortem by BlockSec.
 
 ### Video tutorials
 
@@ -140,6 +142,7 @@
 ### Repositories and Examples
 
 - [not-so-smart-cairo](https://github.com/crytic/building-secure-contracts/tree/master/not-so-smart-contracts/cairo) - Examples of common Cairo smart contract vulnerabilities by Trail of Bits.
+- [zkLend-reproduction](https://github.com/amanusk/zklend_repro) - Reproduction of the zkLend hack with Starknet-Foundry.
 
 ---
 
