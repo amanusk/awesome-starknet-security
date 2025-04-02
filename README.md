@@ -9,9 +9,6 @@
     <a href="#buildstatus">
       <img alt="build status badge" src="https://github.com/amanusk/awsome-starknet-security/workflows/Build/badge.svg">
     </a>
-    <a href="http://makeapullrequest.com">
-      <img alt="pull requests welcome badge" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
-    </a>
   </p>
 
   <p align="center">A curated list of awesome Starknet security resources, tools, CTFs and more.</p>
@@ -23,21 +20,21 @@
 
 <!-- vim-markdown-toc GFM -->
 
-* [Tools](#tools)
-* [CTFs and Wargames](#ctfs-and-wargames)
-  * [CTFs](#ctfs)
-  * [CTF writeups](#ctf-writeups)
-  * [Wargames](#wargames)
-* [Audit reports](#audit-reports)
-  * [Cairo](#cairo)
-  * [Cairo 0](#cairo-0)
-* [Blogposts and Tutorials](#blogposts-and-tutorials)
-    * [Writeups](#writeups)
-  * [Video tutorials](#video-tutorials)
-  * [Twitter threads](#twitter-threads)
-* [General](#general)
-  * [Repositories and Examples](#repositories-and-examples)
-* [License](#license)
+- [Tools](#tools)
+- [CTFs and Wargames](#ctfs-and-wargames)
+  - [CTFs](#ctfs)
+  - [CTF writeups](#ctf-writeups)
+  - [Wargames](#wargames)
+- [Audit reports](#audit-reports)
+  - [Cairo](#cairo)
+  - [Cairo 0](#cairo-0)
+- [Blogposts and Tutorials](#blogposts-and-tutorials)
+  - [Writeups](#writeups)
+  - [Video tutorials](#video-tutorials)
+  - [Twitter threads](#twitter-threads)
+- [General](#general)
+  - [Repositories and Examples](#repositories-and-examples)
+- [License](#license)
 
 <!-- vim-markdown-toc -->
 
@@ -119,7 +116,6 @@
 
 #### Writeups
 
-- [Adventures with Account Abstraction – Risks and Mitigations in `__validate__`](https://braavos.app/adventures-with-account-abstraction-failed-transactions/) - Considerations for `__validate__` function of Starknet smart accounts.
 - [Auditing Cairo 1.0 Contracts](https://extropy-io.medium.com/auditing-cairo-1-0-contracts-9cfdf479924a) - Cairo auditing tips and pitfalls.
 - [Cairo 0.x Security](https://ctrlc03.github.io/post/cairo-security/) - Cairo 0.x pitfalls and considerations.
 - [Cairo Contracts and pitfalls overview](https://mixbytes.io/blog/cairo-contracts-overview) - Cairo traps and vulnerabilities.
